@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="VB" id="D8246C1A-28B5-4D08-AB7A-494BAFE3D3CC" version="3.5">
+<createdBy>labsfiap</createdBy>
+<createdTime>2025-03-28 00:30:30 UTC</createdTime>
+<ownerDesignName>VB</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>D8246C1A-28B5-4D08-AB7A-494BAFE3D3CC</designId>
+</OSDM_Design>
